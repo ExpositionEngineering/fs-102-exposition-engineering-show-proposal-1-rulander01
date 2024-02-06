@@ -18,12 +18,12 @@
 
 <!---toc end-->
 
-## Add Your Name Here
+## shyann rulander
 
 ## Re-type the sentence "I adhered to the Allegheny College Honor Code while completing this project."
 
-TODO: You must retype the sentence here in order to digitally sign your pledge.
-
+You must retype the sentence here in order to digitally sign your pledge.
+I adhered to the Allegheny College Honor Code while completing this project.
 
 
 **IMPORTANT:** If you do not type the required sentence then the course
@@ -32,71 +32,50 @@ while completing the project.
 
 ## 🏁 One Sentence Pitch
 
-TODO: Provide a compelling sentence that summarizes and pitches your podcast
+Provide a compelling sentence that summarizes and pitches your podcast
 episode.
 
+Begining to explore the realities of the chem major and field from someone who has been through it.  
 ## 🔬 Show Details
+A prospective chem student talks to a chemistry professor about the trials and tribulations of the field, touching on what it is like to be a woman in chem.  
 
-TODO: Provide all of the required details for your podcast episode.
-
-TODO: Make sure that your title follows the format `[Name of Guest] on [Name of
-Topic]`.
-
-- **Title**:
-- **Host**:
-- **Guest**:
+- **Title**:Women in Chem 
+- **Host**:Shyann Rulander
+- **Guest**:Alice Deckert  
 
 ## 📝 Show Objectives
 
-TODO: Provide a list of of at least three objectives for the podcast episode.
-
-- **Objective One**:
-- **Objective Two**:
-- **Objective Three**:
+- **Objective One**:I want to learn about why a professional in the feild chose chemistry.
+- **Objective Two**:Ask for advise that a professional wished they knew as a college freshmen. 
+- **Objective Three**: To see if there are any additional challenges to being a women in this feild, or if it tends to be a good environment. 
 
 ## 📚 Sample Questions
 
-TODO: Provide a list of of at least three sample questions that the host will
-ask the guest.
+- **Question One**: Why did you choose Chemistry?
+- **Question Two**: What do you wish you knew as a college freshmen?
+- **Question Three**:Is the feild of chemistry, particularly academima, an enviroment that you have always felt welcome in?
 
-TODO: Provide a justification for why asking this question will achieve one of
-the stated objectives for the podcast episode.
-
-- **Question One**:
-- **Question Two**:
-- **Question Three**:
-
-- **Justification for Question One**:
-- **Justification for Question Two**:
-- **Justification for Question Three**:
+- **Justification for Question One**:Gain some insight on why someone would choose the chemsitry major. 
+- **Justification for Question Two**:Find out advise from someone that has already been through the experience of being a college freshmen.
+- **Justification for Question Three**: From the perspective of a women in a stem feild to find out what it may acually be like to pursue a carrer in this disipline and get more information for those who are considering pursuing it.
 
 ## 🎉 Show Description
 
-TODO: Write at least three to five paragraphs that describe the content of the
-episode, ensuring that the description is both engaging and informative.
+This episode would start out talking to Alice Deckert about her current position at Allegheny College. She is a repected professor and continuing to perform chemical reaserch in the feild of analitical chemistry on campus. Getting to know a potential carrer path that can be taken with the chem major and find out some fun stories of what makes reaserch so interesting- how often it goes wrong! This is just part of the process so perhaps she will have some good stories of when things didnt go quite as planned and then delve into how they were fixed.
 
+After going over a bit about what she does now, i want to find out why she majored in Chemistry in the first place. What were her initial thoughts on what she wanted to do in life, what majors that would be associated with, why she ultimately choose chemsitry. Did family members contribute to this decision and what life experience made her lean in this direction are some more questions I would like to explore. 
+
+To help determine if a major feels like the right fit, many people want to know if the feild their major would take them into is a good environment for them. As a women in Chemistry, I want to know if Deckert has felt as if the feild of chemistry is that she feels comfortable in. Woman have made so many important discoveries in chemistry and it would be incredibly useful to gain insight into if this is a feild that still holds bias agianst certain groups, or holds unfair policies.
+
+As someone who has been succesful after pursuing this major we will explore any and all advise that Deckert wish she knew as a college freshman. This should be a wildly useful segment of the episode for both those who are trying to choose a major and those who are planned chem majors since this will be questioned both broadly for all freshmen trying to make their way through their first year of college and those of this major who will hopefully avoid any academic or otherwise mistakes discussed. Part of what makes humans so "smart" is being able to learn from the mistakes and successes of others who have been through similar experiences. This segment will hopefully help myself and everyone listening to have an easier time in the major by avoiding those mistakes. 
+  
 
 ## 📢 Call to Action
 
-TODO: After a person listens to this episode what do you want them to do?
-
-TODO: Write at least two sentences that explain the call to action for this episode.
+After listening to an episode, I want students to better understand the feild of chemstry and have enough information to further research the feild and major themselves. Alternatively, to even see if it is an enviroment they are still interested in. 
 
 ## 🦜 References
 
-TODO: Please reference at least three web sites or articles from a journal or a
-conference proceedings that you studied when preparing this proposal.
-
-TODO: Make sure that you use correctly formatted Markdown links to the
-references that you consulted when writing this show proposal.
-
-- **Reference One**:
-- **Reference Two**:
-- **Reference Three**:
-
-TODO: If you used any type of artificial intelligence (AI) writing assistant
-tools, please add an additional paragraph that explains clearly specific tools
-you used, how you used them, and what content they helped you to brainstorm,
-write, or revise. While the use of AI writing assistants is permitted as a part
-of the Exposition Engineering course, it is important for you to clearly cite
-all of the tools that you used to create the content in this proposal.
+- **Reference One**:https://pubs.rsc.org/en/content/articlehtml/2017/rp/c6rp00252h
+- **Reference Two**:https://www.jstor.org/stable/pdf/nactajournal.59.1.34.pdf
+- **Reference Three**:https://europepmc.org/article/NBK/nbk526083
