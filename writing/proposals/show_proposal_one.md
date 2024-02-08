@@ -1,3 +1,4 @@
+
 # Show Proposal One
 
 ## ✨ Table of Contents
@@ -74,6 +75,6 @@ After listening to an episode, I want students to better understand the field of
 
 ## 🦜 References
 
-- **Reference One**:https://pubs.rsc.org/en/content/articlehtml/2017/rp/c6rp00252h
-- **Reference Two**:https://www.jstor.org/stable/pdf/nactajournal.59.1.34.pdf
-- **Reference Three**:https://europepmc.org/article/NBK/nbk526083
+- **Reference One**: https://pubs.rsc.org/en/content/articlehtml/2017/rp/c6rp00252h
+- **Reference Two**: https://www.jstor.org/stable/pdf/nactajournal.59.1.34.pdf
+- **Reference Three**: https://europepmc.org/article/NBK/nbk526083
