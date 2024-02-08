@@ -35,8 +35,10 @@ while completing the project.
 Provide a compelling sentence that summarizes and pitches your podcast
 episode.
 
-Beginning to explore the realities of the chem major and field from someone who has been through it.  
+Beginning to explore the realities of the chem major and field from someone who has been through it.
+
 ## 🔬 Show Details
+
 A prospective chem student talks to a chemistry professor about the trials and tribulations of the field, touching on what it is like to be a woman in chem.  
 
 - **Title**: Alice Deckert on Women in Chem
@@ -46,7 +48,7 @@ A prospective chem student talks to a chemistry professor about the trials and t
 ## 📝 Show Objectives
 
 - **Objective One**: I want to learn about why a professional in the field chose chemistry.
-- **Objective Two**: Ask for advice that a professional wished they knew as a college freshman. 
+- **Objective Two**: Ask for advice that a professional wished they knew as a college freshman.
 - **Objective Three**: To see if there are any additional challenges to being a woman in this field, or if it tends to be a good environment. 
 
 ## 📚 Sample Questions
@@ -75,6 +77,6 @@ After listening to an episode, I want students to better understand the field of
 
 ## 🦜 References
 
-- **Reference One**: https://pubs.rsc.org/en/content/articlehtml/2017/rp/c6rp00252h
-- **Reference Two**: https://www.jstor.org/stable/pdf/nactajournal.59.1.34.pdf
-- **Reference Three**: https://europepmc.org/article/NBK/nbk526083
+- **Reference One**: [text] (https://pubs.rsc.org/en/content/articlehtml/2017/rp/c6rp00252h)
+- **Reference Two**: [text] (https://www.jstor.org/stable/pdf/nactajournal.59.1.34.pdf)
+- **Reference Three**: [text] (https://europepmc.org/article/NBK/nbk526083)
